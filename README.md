@@ -5,7 +5,7 @@ Welcome to my exploration of the **Classic Models** database! 🎉 This dataset 
 
 Ready to dive into the world of Classic Models? Let’s go! 🌟  
 
-![Database Visualization](https://via.placeholder.com/800x400?text=Insert+Database+Image+Here)  
+ 
 
 ---
 
@@ -22,13 +22,21 @@ Ready to dive into the world of Classic Models? Let’s go! 🌟
 
 ---
 
-## 🌟 Insights Discovered  
-- 🏆 Top-performing sales reps.  
-- 📦 Best-selling products and revenue contributions.  
+# 🌟 Insights Discovered  
+- 🏆 Top-performing sales reps.
+  
+  <img width="409" alt="image" src="https://github.com/user-attachments/assets/90396b43-5ff1-42a6-bce0-7e4d2d94271e" />
+  
+- 📦 Best-selling products and revenue contributions.
+  
+  <img width="401" alt="image" src="https://github.com/user-attachments/assets/0b12cfe7-8749-4f33-93ac-d0ca9e0ba262" />
+  
 - 🛒 Customer ordering trends across regions.  
 
 Here’s a sneak peek of the insights 👇:  
-![Sample Insights](https://via.placeholder.com/800x400?text=Insert+Insights+Image+Here)  
+
+
+
 
 ---
 
@@ -39,7 +47,7 @@ Here’s a sneak peek of the insights 👇:
 ---
 
 ## 🚀 How to Use  
-1. **Download the Classic Models Database**: [Click Here](https://dev.mysql.com/doc/employee/en/) 🗂️.  
+1. **Download the Classic Models Database**:.  
 2. Import it into your MySQL setup.  
 3. Run the SQL scripts included in this repo to replicate my analysis.  
 4. 🎯 Explore further by customizing queries to uncover your own insights!  
